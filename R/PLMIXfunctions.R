@@ -3090,16 +3090,12 @@ ppcheckPLMIX_cond <- function(pi_inv,seq_G,
   }
   attributes(post_pred_pvalue_cond) <- attributes(post_pred_pvalue_cond)[c("dim","dimnames")]
   post_pred_pvalue_cond <- as.matrix(post_pred_pvalue_cond)
-  
 
-  rownames(post_pred_pvalue_cond) <- paste0("G_",seq_G)                           
+  rownames(post_pred_pvalue_cond) <- paste0("G_",seq_G)
     
   out <- list(post_pred_pvalue_cond=post_pred_pvalue_cond)
   
   return(out)
 
 }
-
-
-	
 

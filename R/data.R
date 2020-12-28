@@ -39,9 +39,6 @@
 NULL
 
 
-
-
-
 #' Car Configurator Data (partial orderings)
 #'
 #' The Car Configurator dataset (\code{d_carconf}) came up from a marketing
@@ -87,9 +84,6 @@ NULL
 #' head(d_carconf_compl)
 #'
 NULL
-
-
-
 
 
 #' Dublin West Data (partial orderings)
@@ -140,9 +134,6 @@ NULL
 NULL
 
 
-
-
-
 #' Gaming Platforms Data (complete orderings)
 #'
 #' The Gaming Platforms dataset (\code{d_gaming}) collects the results of a
@@ -172,9 +163,6 @@ NULL
 #' head(d_gaming)
 #'
 NULL
-
-
-
 
 
 #' German Sample Data (complete orderings)
@@ -208,9 +196,6 @@ NULL
 #' head(d_german)
 #'
 NULL
-
-
-
 
 
 #' NASCAR Data (partial orderings)
@@ -268,9 +253,6 @@ NULL
 NULL
 
 
-
-
-
 #' Occupation Data (complete orderings)
 #'
 #' The Occupation dataset (\code{d_occup}) came up from a survey conducted on
@@ -311,9 +293,6 @@ NULL
 NULL
 
 
-
-
-
 #' Rice Voting Data (partial orderings)
 #'
 #' The Rice Voting dataset (\code{d_rice}) collects the results of the 1992
@@ -348,9 +327,6 @@ NULL
 #'
 #'
 NULL
-
-
-
 
 
 #' Bayesian Analysis of Finite Mixtures of Plackett-Luce Models for Partial
@@ -459,6 +435,4 @@ NULL
 #' 3738--3758, ISSN: 0277-6715,
 #' \url{http://onlinelibrary.wiley.com/doi/10.1002/sim.6224/full}.
 NULL
-
-
 
